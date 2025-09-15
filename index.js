@@ -46,5 +46,5 @@ else {
 
 
 //Execução
-console.log ("O Herói de nome" {nomeHeroi} "está no nível" {nivel})
+console.log(`O Herói de nome ${nomeHeroi} está no nível ${nivel}`);
 
